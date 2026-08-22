@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jagan Pothina
 
-### AWS DevOps Engineer | Kubernetes | Terraform | CI/CD | DevSecOps
+### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | DevSecOps
 
 > Building secure, scalable and automated cloud infrastructure.
 
