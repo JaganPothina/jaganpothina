@@ -1,64 +1,199 @@
-# 👋 Hi, I'm Jagan Pothina
+<div align="center">
 
-### DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | DevSecOps
+# 👋 Hi, I'm Jagan Mohan Rao
 
-> Building secure, scalable and automated cloud infrastructure.
+### ☁️ AWS DevOps Engineer | Kubernetes | CI/CD | Terraform | Cloud & Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-AWS DevOps Engineer with 4+ years of experience working with:
+```text
+Name       : Jagan Pothina
+Role       : DevOps Engineer
+Experience : 5 Years
+Focus      : DevOps | AWS | Kubernetes | CI/CD | Infrastructure as Code
+Cloud      : AWS
+Location   : India
+```
 
-☁️ **AWS** · ☸️ **Kubernetes/EKS** · 🏗️ **Terraform**  
-🚀 **Jenkins** · 🐳 **Docker** · 🔄 **ArgoCD**  
-🔐 **DevSecOps** · 📊 **Prometheus & Grafana**
+I am an **AWS DevOps Engineer** with 5 years of experience working with cloud-native,
+containerized applications and DevOps automation.
 
-### 💼 Experience
+I enjoy building reliable infrastructure, automating CI/CD pipelines, managing Kubernetes
+platforms, and implementing Infrastructure as Code.
 
-**AWS DevOps Engineer — Infosys**  
-`Nov 2021 – Present`
-
-- ☁️ AWS infrastructure provisioning with **Terraform**
-- ☸️ EKS cluster upgrades, scaling & production support
-- 🚀 Jenkins-based **CI/CD automation**
-- 🔄 GitOps deployments using **ArgoCD**
-- 🔐 SAST, SCA, DAST & container security scanning
-- 📊 Kubernetes monitoring with **Prometheus, Grafana & ELK**
+- ☁️ AWS cloud infrastructure & services
+- ☸️ Kubernetes & Amazon EKS
+- 🔄 CI/CD automation with Jenkins & Git
+- 🐳 Docker & containerization
+- 🏗️ Infrastructure as Code with Terraform
+- 🚀 GitOps with Argo CD
+- 📊 Monitoring with Prometheus & Grafana
+- 🔐 DevSecOps with SonarQube, Trivy & OWASP tools
 - 🛠️ Production troubleshooting & incident resolution
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-**Cloud:** AWS  
-**Containers:** Kubernetes, Docker  
-**IaC:** Terraform  
-**CI/CD:** Jenkins, GitHub  
-**GitOps:** ArgoCD  
-**Security:** SonarQube, Trivy, OWASP  
-**Monitoring:** Prometheus, Grafana, ELK, CloudWatch  
-**Scripting:** Python, Bash
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+**AWS:** EC2 • EKS • ECS • ECR • S3 • VPC • IAM • RDS • CloudFront • Route 53 •
+ALB • NLB • Auto Scaling • Lambda • API Gateway • SQS • SNS • ElastiCache • KMS
+
+### ☸️ Containers & Kubernetes
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,openshift" />
+</p>
+
+**Kubernetes:** EKS • Deployments • StatefulSets • Services • Ingress • HPA •
+Cluster Autoscaler • RBAC • ConfigMaps • Secrets • PV/PVC • Kustomize
+
+### 🔄 CI/CD & GitOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,argo" />
+</p>
+
+**CI/CD:** Jenkins • Git • GitHub • Maven • Nexus • Argo CD • Argo CD Image Updater
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+</p>
+
+**Monitoring:** Prometheus • Grafana • ELK • CloudWatch • Node Exporter •
+kube-state-metrics
+
+### 🔐 Security & DevSecOps
+
+**Tools:** SonarQube • Trivy • OWASP Dependency-Check • OWASP ZAP •
+Amazon Inspector • AWS WAF • AWS Shield
 
 ---
 
-## 🏆 Certifications
+## 🏗️ What I Work On
 
-🏅 **Certified Kubernetes Administrator (CKA)**  
-☁️ **AWS Solutions Architect – Associate**  
-☁️ **AWS Cloud Practitioner**
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    DEVOPS WORKFLOW                         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Git → Jenkins → Maven → SonarQube → Docker → Trivy       │
+│                              ↓                              │
+│                             ECR                             │
+│                              ↓                              │
+│                    GitOps / Argo CD                         │
+│                              ↓                              │
+│                    Amazon EKS / Kubernetes                  │
+│                              ↓                              │
+│               Prometheus + Grafana + ELK                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+- 🚀 Designing and supporting CI/CD pipelines
+- ☸️ Managing Amazon EKS clusters and Kubernetes workloads
+- 🏗️ Provisioning AWS infrastructure using Terraform
+- 🔄 Implementing GitOps-based deployments using Argo CD
+- 📦 Building and scanning Docker images
+- 📈 Monitoring applications and Kubernetes infrastructure
+- 🔍 Troubleshooting production issues and performing RCA
+- 🔐 Integrating security and code-quality checks into pipelines
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Skills
 
-🔹 **AWS EKS Infrastructure** — Terraform + Kubernetes  
-🔹 **DevSecOps CI/CD Pipeline** — Jenkins + SonarQube + Trivy  
-🔹 **Kubernetes Monitoring** — Prometheus + Grafana  
-🔹 **GitOps Deployment** — ArgoCD
+| Area | Technologies |
+|---|---|
+| ☁️ Cloud | AWS, EC2, EKS, S3, RDS, VPC, IAM, CloudFront |
+| ☸️ Containers | Docker, Kubernetes, Helm, Kustomize |
+| 🔄 CI/CD | Jenkins, Git, GitHub, Maven, Nexus |
+| 🏗️ IaC | Terraform |
+| 🚀 GitOps | Argo CD, Argo CD Image Updater |
+| 📊 Monitoring | Prometheus, Grafana, ELK, CloudWatch |
+| 🔐 Security | SonarQube, Trivy, OWASP ZAP, Inspector |
+| 🐧 OS/Scripting | Linux, Bash, Python |
 
 ---
 
-## 🤝 Connect
+## 📈 GitHub Stats
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:jaganpothina@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- ☸️ Advanced Kubernetes & EKS
+- 🚀 GitOps & Argo CD
+- ☁️ AWS Cloud Architecture
+- 🏗️ Advanced Terraform
+- 🔐 DevSecOps
+- 🤖 DevOps automation with Python
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+If you're interested in **AWS, DevOps, Kubernetes, Cloud, CI/CD or Automation**, feel free to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagan%20Mohan%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Automate everything you can, monitor everything you run."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
