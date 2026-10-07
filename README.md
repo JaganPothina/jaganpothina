@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jagan Mohan Rao
+# 👋 Hi, I'm Jagan Pothina
 
 ### ☁️ AWS DevOps Engineer | Kubernetes | CI/CD | Terraform | Cloud & Automation
 
