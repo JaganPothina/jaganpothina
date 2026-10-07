@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jagan Pothina
 
-### ☁️ AWS DevOps Engineer | Kubernetes | CI/CD | Terraform | Cloud & Automation
+### ☁️ AWS DevOps Engineer | Kubernetes | CI/CD | Docker | Terraform | Cloud & Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
