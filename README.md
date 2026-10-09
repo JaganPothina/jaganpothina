@@ -30,8 +30,8 @@ containerized applications and DevOps automation.
 I enjoy building reliable infrastructure, automating CI/CD pipelines, managing Kubernetes
 platforms, and implementing Infrastructure as Code.
 
-- ☁️ AWS cloud infrastructure & services
 - ☸️ Kubernetes & Amazon EKS
+- ☁️ AWS cloud infrastructure & services
 - 🔄 CI/CD automation with Jenkins & Git
 - 🐳 Docker & containerization
 - 🏗️ Infrastructure as Code with Terraform
