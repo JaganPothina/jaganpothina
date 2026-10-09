@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0F766E&height=220&section=header&text=Jagan%20Pothina&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+
 # 👋 Hi, I'm Jagan Pothina
 
 ### ☁️ DevOps & Cloud Engineer | Kubernetes | AWS | CI/CD | Docker | Terraform | Cloud & Automation
