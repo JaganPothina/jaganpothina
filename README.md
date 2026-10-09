@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Jagan Pothina
 
 ### ☁️ DevOps & Cloud Engineer | Kubernetes | AWS | CI/CD | Docker | Terraform | Cloud & Automation
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-JAGANPOTHINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaganpothina)
 [![GitHub](https://img.shields.io/badge/GITHUB-JAGANPOTHINA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaganPothina)
 
