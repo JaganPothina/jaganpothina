@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-JAGANPOTHINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaganpothina)
 [![GitHub](https://img.shields.io/badge/GITHUB-JAGANPOTHINA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaganPothina)
 [![Email](https://img.shields.io/badge/EMAIL-JAGANPOTHINA%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaganpothina@gmail.com)
+
 [![Location](https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-2EBD59?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C%20India)
 
 </div>
