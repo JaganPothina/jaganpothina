@@ -2,18 +2,19 @@
 
 # 👋 Hi, I'm Jagan Pothina
 
-### ☁️ AWS DevOps Engineer | Kubernetes | CI/CD | Docker | Terraform | Cloud & Automation
+### ☁️ DevOps & Cloud Engineer | Kubernetes | AWS | CI/CD | Docker | Terraform | Cloud & Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-JAGANPOTHINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaganpothina)
+[![GitHub](https://img.shields.io/badge/GITHUB-JAGANPOTHINA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaganPothina)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+[![Email](https://img.shields.io/badge/EMAIL-JAGANPOTHINA%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaganpothina@gmail.com)
+[![Location](https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-2EBD59?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C%20India)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JaganPothina&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
 
 </div>
 
 ---
-
 ## 🚀 About Me
 
 ```text
