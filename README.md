@@ -10,8 +10,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-JAGANPOTHINA%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaganpothina@gmail.com)
 [![Location](https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-2EBD59?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Hyderabad%2C%20India)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JaganPothina&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
-
 </div>
 
 ---
