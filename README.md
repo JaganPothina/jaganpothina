@@ -34,14 +34,11 @@ platforms, and implementing Infrastructure as Code.
 ---
 ## 🏆 Certifications
 
-#☸️ Certified Kubernetes Administrator (CKA)
-**Credential ID:** `LF-idb0ifut5r`
+☸️ Certified Kubernetes Administrator (CKA)                     **Credential ID:** `LF-idb0ifut5r`
 
-#☁️ AWS Certified Solutions Architect – Associate (AWS SAA-C03)  
-**Credential ID:** `56858fc12c01489f81136aa7e0634e47`
+☁️ AWS Certified Solutions Architect – Associate (AWS SAA-C03)  **Credential ID:** `56858fc12c01489f81136aa7e0634e47`
 
-#☁️ AWS Certified Cloud Practitioner(AWS CLF-C02)  
-**Credential ID:** `1NX1QR9K0BFE1EC4`
+☁️ AWS Certified Cloud Practitioner(AWS CLF-C02)                **Credential ID:** `1NX1QR9K0BFE1EC4`
 
 ---
 ## 🧰 Tech Stack
