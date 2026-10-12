@@ -84,38 +84,6 @@ kube-state-metrics
 Amazon Inspector • AWS WAF • AWS Shield
 
 ---
-
-## 🏗️ What I Work On
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVOPS WORKFLOW                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Git → Jenkins → Maven → SonarQube → Docker → Trivy       │
-│                              ↓                              │
-│                             ECR                             │
-│                              ↓                              │
-│                    GitOps / Argo CD                         │
-│                              ↓                              │
-│                    Amazon EKS / Kubernetes                  │
-│                              ↓                              │
-│               Prometheus + Grafana + ELK                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-- 🚀 Designing and supporting CI/CD pipelines
-- ☸️ Managing Amazon EKS clusters and Kubernetes workloads
-- 🏗️ Provisioning AWS infrastructure using Terraform
-- 🔄 Implementing GitOps-based deployments using Argo CD
-- 📦 Building and scanning Docker images
-- 📈 Monitoring applications and Kubernetes infrastructure
-- 🔍 Troubleshooting production issues and performing RCA
-- 🔐 Integrating security and code-quality checks into pipelines
-
----
-
 ## 📌 Featured Skills
 
 | Area | Technologies |
