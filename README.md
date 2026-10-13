@@ -111,16 +111,6 @@ Amazon Inspector • AWS WAF • AWS Shield
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
