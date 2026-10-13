@@ -111,16 +111,6 @@ Amazon Inspector • AWS WAF • AWS Shield
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📚 Currently Learning
 
 - ☸️ Advanced Kubernetes & EKS
