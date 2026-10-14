@@ -111,17 +111,6 @@ Amazon Inspector • AWS WAF • AWS Shield
 
 ---
 
-## 📚 Currently Learning
-
-- ☸️ Advanced Kubernetes & EKS
-- 🚀 GitOps & Argo CD
-- ☁️ AWS Cloud Architecture
-- 🏗️ Advanced Terraform
-- 🔐 DevSecOps
-- 🤖 DevOps automation with Python
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
