@@ -111,12 +111,3 @@ If you're interested in **AWS, DevOps, Kubernetes, Cloud, CI/CD or Automation**,
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 "Automate everything you can, monitor everything you run."
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
