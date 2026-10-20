@@ -110,7 +110,6 @@ Amazon Inspector • AWS WAF • AWS Shield
 <a href="https://www.linkedin.com/in/jaganpothina">
   <img src="https://img.shields.io/badge/LINKEDIN-JAGANPOTHINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <br/><br/>
 
 <a href="https://github.com/JaganPothina">
