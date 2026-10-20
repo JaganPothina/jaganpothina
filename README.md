@@ -99,15 +99,21 @@ Amazon Inspector • AWS WAF • AWS Shield
 
 ---
 
+```html
 ## 🤝 Connect With Me
+
+<p align="center">
+  If you're interested in <b>AWS, DevOps, Kubernetes, Cloud, CI/CD or Automation</b>, feel free to connect!
+</p>
 
 <div align="center">
 
-If you're interested in **AWS, DevOps, Kubernetes, Cloud, CI/CD or Automation**, feel free to connect!
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-JAGANPOTHINA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaganpothina)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagan%20Mohan%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GITHUB-JAGANPOTHINA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaganPothina)
 
 </div>
+```
 
