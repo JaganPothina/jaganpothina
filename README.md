@@ -50,7 +50,7 @@ platforms, and implementing Infrastructure as Code.
 </p>
 
 **AWS:** EC2 • EKS • ECS • ECR • S3 • VPC • IAM • RDS • CloudFront • Route 53 •
-ALB • NLB • Auto Scaling • Lambda • API Gateway • SQS • SNS • ElastiCache • KMS
+ALB • NLB • Auto Scaling • Lambda • SQS • SNS • ElastiCache • KMS
 
 ### ☸️ Containers & Kubernetes
 
